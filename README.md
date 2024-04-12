@@ -1,0 +1,1 @@
+# ms-spring-service-configuration
